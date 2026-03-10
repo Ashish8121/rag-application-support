@@ -188,8 +188,3 @@ Response:
 
 Ashish Kumar
 
----
-
-# License
-
-MIT License
