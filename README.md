@@ -178,19 +178,9 @@ Response:
 * FastAPI
 * FAISS
 * Sentence Transformers
-* Groq LLM (Llama3)
+* Groq LLM (openai)
 * LangChain text splitters
 * Pydantic
-
----
-
-# Future Improvements
-
-* Add citation sources in responses
-* Persist FAISS index to disk
-* Add conversation memory
-* Add Docker support
-* Deploy to cloud (AWS / GCP / Azure)
 
 ---
 
